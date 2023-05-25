@@ -1,4 +1,4 @@
-package com.example.rapportservice;
+package com.example.rapportservice.Controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
